@@ -4,4 +4,4 @@
 
 Insertion.java,Merge.java,Quick.java,Selection.java,Shell.java,SortCompare.java - коды программ.
 
-Коньков Данила ИБ-119
+Воронов Павел ИБ-119
